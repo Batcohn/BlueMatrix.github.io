@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BlueMatrix Technologies</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #004b87;
+            color: white;
+            padding: 1.5em;
+            text-align: center;
+        }
+        nav {
+            background-color: #0066cc;
+            display: flex;
+            justify-content: center;
+            padding: 0.5em;
+        }
+        nav a {
+            color: white;
+            margin: 0 1em;
+            text-decoration: none;
+        }
+        .container {
+            padding: 2em;
+            max-width: 1000px;
+            margin: auto;
+        }
+        .section {
+            margin-bottom: 2em;
+        }
+        footer {
+            background-color: #004b87;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .highlight {
+            color: #0066cc;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BlueMatrix Technologies</h1>
+        <p>Precision. Intelligence. Innovation.</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section id="about" class="section">
+            <h2>About Us</h2>
+            <p>BlueMatrix Technologies is a forward-thinking company specializing in <span class="highlight">object detection powered by machine learning</span>. We apply cutting-edge AI to real-world challenges in agriculture, marine science, and beyond.</p>
+        </section>
+
+        <section id="projects" class="section">
+            <h2>Our Projects</h2>
+            <h3>Disease Detection in Corn</h3>
+            <p>We've developed a robust machine learning model capable of identifying and tracking diseases in corn crops using advanced image recognition. This helps farmers take proactive action and improve crop yield.</p>
+
+            <h3>Fish Detection via Sonar</h3>
+            <p>Currently, we are building a new object detection system to identify and track fish populations using <span class="highlight">sonar imaging technology</span>. This model aims to support sustainable fishing and marine ecosystem monitoring.</p>
+        </section>
+
+        <section id="contact" class="section">
+            <h2>Contact Us</h2>
+            <p>Have questions or want to collaborate? Reach out to us at <a href="mailto:blue.matrix.technologies24@gmail.com">blue.matrix.technologies24@gmail.com</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 BlueMatrix Technologies. All rights reserved.</p>
+    </footer>
+</body>
+</html>
