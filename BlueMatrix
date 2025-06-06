@@ -73,7 +73,7 @@
         <section id="projects" class="section">
             <h2>Our Projects</h2>
             <h3>Disease Detection in Corn</h3>
-            <p>We've developed a robust machine learning model capable of identifying and tracking diseases in corn crops using advanced image recognition. This helps farmers take proactive action and improve crop yield.</p>
+            <p>We've developed a robust machine learning model capable of identifying and tracking diseases in corn crops using advanced image recognition. This will help farmers take proactive action and improve crop yield.</p>
 
             <h3>Fish Detection via Sonar</h3>
             <p>Currently, we are building a new object detection system to identify and track fish populations using <span class="highlight">sonar imaging technology</span>. This model aims to support sustainable fishing and marine ecosystem monitoring.</p>
